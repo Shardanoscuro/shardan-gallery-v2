@@ -1,0 +1,24 @@
+backend:
+  name: github
+  repo: Shardanoscuro/shardan-gallery
+  branch: main
+
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "artworks"
+    label: "Opere d'Arte"
+    folder: "_data/artworks"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Titolo", name: "title", widget: "string"}
+      - {label: "Categoria", name: "category", widget: "select", options: ["disponibile", "venduto", "work-in-progress", "chi-sono", "commissioni"]}
+      - {label: "Descrizione", name: "description", widget: "text"}
+      - {label: "Prezzo", name: "price", widget: "string"}
+      - {label: "Anno", name: "year", widget: "number"}
+      - {label: "Dimensioni", name: "dimensions", widget: "string"}
+      - {label: "Tecnica", name: "technique", widget: "string"}
+      - {label: "Immagine", name: "image", widget: "image", required: false}
+      - {label: "Gradiente", name: "gradient", widget: "string", required: false}

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Opera in Corso 1",
+    "category": "personali",
+    "description": "Descrizione dell'opera in corso...",
+    "price": "€ 250,00",
+    "status": "60% completato",
+    "estimatedTime": "1-2 settimane",
+    "gradient": "linear-gradient(45deg, #667eea, #764ba2)"
+  },
+  {
+    "id": 2,
+    "title": "Opera in Corso 2", 
+    "category": "personali",
+    "description": "Descrizione dell'opera in corso...",
+    "price": "€ 280,00",
+    "status": "45% completato", 
+    "estimatedTime": "2-3 settimane",
+    "gradient": "linear-gradient(45deg, #f093fb, #f5576c)"
+  },
+  {
+    "id": 3,
+    "title": "Opera in Corso 3",
+    "category": "personali", 
+    "description": "Descrizione dell'opera in corso...",
+    "price": "€ 220,00",
+    "status": "30% completato",
+    "estimatedTime": "3-4 settimane", 
+    "gradient": "linear-gradient(45deg, #4facfe, #00f2fe)"
+  },
+  {
+    "id": 4,
+    "title": "Opera in Corso 4",
+    "category": "personali",
+    "description": "Descrizione dell'opera in corso...", 
+    "price": "€ 300,00",
+    "status": "75% completato",
+    "estimatedTime": "1 settimana",
+    "gradient": "linear-gradient(45deg, #a8edea, #fed6e3)"
+  },
+  {
+    "id": 5,
+    "title": "Opera in Corso 5",
+    "category": "personali",
+    "description": "Descrizione dell'opera in corso...",
+    "price": "€ 260,00", 
+    "status": "20% completato",
+    "estimatedTime": "4-5 settimane",
+    "gradient": "linear-gradient(45deg, #ffecd2, #fcb69f)"
+  },
+  {
+    "id": 6,
+    "title": "Opera in Corso 6",
+    "category": "personali",
+    "description": "Descrizione dell'opera in corso...",
+    "price": "€ 320,00",
+    "status": "85% completato", 
+    "estimatedTime": "3-4 giorni",
+    "gradient": "linear-gradient(45deg, #ffa726, #fb8c00)"
+  },
+  {
+    "id": 7,
+    "title": "Commissione Privata", 
+    "category": "commissioni",
+    "description": "Opera commissionata da cliente privato...",
+    "price": "Riservato",
+    "status": "40% completato",
+    "estimatedTime": "2-3 settimane",
+    "gradient": "linear-gradient(45deg, #e91e63, #f48fb1)"
+  },
+  {
+    "id": 8,
+    "title": "Esperimento 1",
+    "category": "esperimenti", 
+    "description": "Nuova tecnica sperimentale...",
+    "price": "€ 200,00",
+    "status": "Sperimentazione", 
+    "estimatedTime": "1 settimana",
+    "gradient": "linear-gradient(45deg, #9c27b0, #ba68c8)"
+  },
+  {
+    "id": 9,
+    "title": "Esperimento 2",
+    "category": "esperimenti",
+    "description": "Nuova tecnica sperimentale...",
+    "price": "€ 180,00",
+    "status": "Sperimentazione",
+    "estimatedTime": "2 settimane", 
+    "gradient": "linear-gradient(45deg, #3f51b5, #7986cb)"
+  },
+  {
+    "id": 10,
+    "title": "Esperimento 3",
+    "category": "esperimenti",
+    "description": "Nuova tecnica sperimentale...",
+    "price": "€ 220,00",
+    "status": "Sperimentazione",
+    "estimatedTime": "1-2 settimane",
+    "gradient": "linear-gradient(45deg, #00bcd4, #4dd0e1)"
+  }
+]

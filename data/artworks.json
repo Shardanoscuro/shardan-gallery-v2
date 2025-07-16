@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Nebulosa Oscura",
+    "description": "Un'opera che cattura l'essenza del gaming notturno, con sfumature viola e blu che rappresentano l'immersione nel mondo virtuale.",
+    "price": "€ 150,00",
+    "image": null,
+    "gradient": "linear-gradient(45deg, #667eea, #764ba2)"
+  },
+  {
+    "id": 2,
+    "title": "Energia Gamer",
+    "description": "Rappresentazione dell'adrenalina e della passione che si prova durante le sessioni di gaming più intense.",
+    "price": "€ 200,00",
+    "image": null,
+    "gradient": "linear-gradient(45deg, #e74c3c, #c0392b)"
+  },
+  {
+    "id": 3,
+    "title": "Cosmic Warfare",
+    "description": "Battaglia galattica tra forze digitali, ispirata ai grandi RTS e space opera del gaming.",
+    "price": "€ 175,00",
+    "image": null,
+    "gradient": "linear-gradient(45deg, #00cec9, #00b894)"
+  },
+  {
+    "id": 4,
+    "title": "Retro Arcade",
+    "description": "Nostalgia pura dei coin-op anni '80, con neon lampeggianti e atmosfere vintage.",
+    "price": "€ 160,00",
+    "image": null,
+    "gradient": "linear-gradient(45deg, #f39c12, #e67e22)"
+  },
+  {
+    "id": 5,
+    "title": "Digital Samurai",
+    "description": "Fusione tra tradizione giapponese e cyberpunk futuristico, ispirata ai grandi action game.",
+    "price": "€ 220,00",
+    "image": null,
+    "gradient": "linear-gradient(45deg, #9b59b6, #8e44ad)"
+  }
+]
